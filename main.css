@@ -4,13 +4,12 @@
 
 body{
     background-color: hsl(0, 0%, 98%);
-    font-family: 'Epilogue', serif;
-    font-weight: 700;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 500;
 }
 
 p{
     font-size: 18px;
-    font-weight: 500;
     color: hsl(0, 0%, 41%);
 }
 
@@ -20,7 +19,7 @@ p{
 
 .nav-hover{
     color: hsl(0, 0%, 41%);
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .nav-hover:hover{
